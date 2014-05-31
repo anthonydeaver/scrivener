@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.6.1.0">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2014-05-31 19:49:25 -0400">
     <Binder>
-        <BinderItem ID="3" Created="2011-09-27 16:49:53 +0000" Modified="2012-01-21 06:26:11 +0000" Type="Text">
+        <BinderItem ID="3" Type="Text" Created="2011-09-27 12:49:53 -0400" Modified="2012-01-21 01:26:11 -0500">
             <Title>Novel Format</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
-                <IconFileName>Information.png</IconFileName>
+                <IconFileName>Information.tiff</IconFileName>
             </MetaData>
             <TextSettings>
                 <TextSelection>0,3726</TextSelection>
-                <Target Type="Words">0</Target>
             </TextSettings>
         </BinderItem>
-        <BinderItem ID="0" Created="2006-11-04 16:27:29 +0000" Modified="2013-06-21 02:32:05 +0000" Type="DraftFolder">
+        <BinderItem ID="0" Type="DraftFolder" Created="2006-11-04 11:27:29 -0500" Modified="2013-06-20 22:32:05 -0400">
             <Title>Ball of Fate</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>4</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="5" Created="2011-09-27 16:50:33 +0000" Modified="2013-07-09 13:55:48 +0000" Type="Text">
+                <BinderItem ID="5" Type="Text" Created="2011-09-27 12:50:33 -0400" Modified="2013-07-09 09:55:48 -0400">
                     <Title>Title Page</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -29,22 +30,21 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>74,74</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="4" Created="2006-11-04 16:31:13 +0000" Modified="2013-07-09 15:26:24 +0000" Type="Folder">
+                <BinderItem ID="4" Type="Folder" Created="2006-11-04 11:31:13 -0500" Modified="2013-07-09 11:26:24 -0400">
                     <Title>Episode 1</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="27" Created="2013-07-07 05:51:38 +0000" Modified="2013-07-09 14:50:40 +0000" Type="Text">
+                        <BinderItem ID="27" Type="Text" Created="2013-07-07 01:51:38 -0400" Modified="2014-05-31 19:48:30 -0400">
                             <Title>Prelude</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -52,55 +52,52 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3515,3515</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="28" Created="2013-07-07 05:54:41 +0000" Modified="2013-07-09 14:02:33 +0000" Type="Text">
+                        <BinderItem ID="28" Type="Text" Created="2013-07-07 01:54:41 -0400" Modified="2014-05-31 18:45:33 -0400">
                             <Title>Mayor</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2084,2084</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>2981,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="13" Created="2013-06-21 02:21:39 +0000" Modified="2013-07-09 15:26:25 +0000" Type="Folder">
+                <BinderItem ID="13" Type="Folder" Created="2013-06-20 22:21:39 -0400" Modified="2013-07-09 11:26:25 -0400">
                     <Title>Episode 2</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="26" Created="2013-07-07 05:48:42 +0000" Modified="2013-07-09 14:52:23 +0000" Type="Text">
+                        <BinderItem ID="26" Type="Text" Created="2013-07-07 01:48:42 -0400" Modified="2013-07-09 10:52:23 -0400">
                             <Title>Harley sat totally still. Absolutely. Completely....</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="29" Created="2013-07-07 05:55:33 +0000" Modified="2013-07-09 14:04:01 +0000" Type="Text">
+                        <BinderItem ID="29" Type="Text" Created="2013-07-07 01:55:33 -0400" Modified="2013-07-09 10:04:01 -0400">
                             <Title>-1</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>454,454</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>571,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="30" Created="2013-07-07 05:55:40 +0000" Modified="2013-07-09 14:03:56 +0000" Type="Text">
+                        <BinderItem ID="30" Type="Text" Created="2013-07-07 01:55:40 -0400" Modified="2013-07-09 10:03:56 -0400">
                             <Title>-2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -108,71 +105,68 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>806,806</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="33" Created="2013-07-07 06:01:00 +0000" Modified="2013-07-09 15:26:27 +0000" Type="Folder">
+                <BinderItem ID="33" Type="Folder" Created="2013-07-07 02:01:00 -0400" Modified="2013-07-09 11:26:27 -0400">
                     <Title>Episode 3</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="81" Created="2013-07-09 15:02:18 +0000" Modified="2013-07-09 15:02:18 +0000" Type="Text">
+                        <BinderItem ID="81" Type="Text" Created="2013-07-09 11:02:18 -0400" Modified="2013-07-09 11:02:18 -0400">
                             <Title>The cargo bay doors slid open, disappearing into...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8418,8418</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="35" Created="2013-07-07 06:02:22 +0000" Modified="2013-07-09 15:26:31 +0000" Type="Folder">
+                <BinderItem ID="35" Type="Folder" Created="2013-07-07 02:02:22 -0400" Modified="2013-07-09 11:26:31 -0400">
                     <Title>Episode 4</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="36" Created="2013-07-07 06:02:24 +0000" Modified="2013-07-09 14:54:35 +0000" Type="Text">
-                            <Title>&quot;Commander, what can I do for the Knights of...</Title>
+                        <BinderItem ID="36" Type="Text" Created="2013-07-07 02:02:24 -0400" Modified="2013-07-09 10:54:35 -0400">
+                            <Title>"Commander, what can I do for the Knights of...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>6062,6062</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="37" Created="2013-07-07 06:04:21 +0000" Modified="2013-07-09 15:26:32 +0000" Type="Folder">
+                <BinderItem ID="37" Type="Folder" Created="2013-07-07 02:04:21 -0400" Modified="2013-07-09 11:26:32 -0400">
                     <Title>Episode 5</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="38" Created="2013-07-07 06:04:29 +0000" Modified="2013-07-09 14:54:32 +0000" Type="Text">
+                        <BinderItem ID="38" Type="Text" Created="2013-07-07 02:04:29 -0400" Modified="2013-07-09 10:54:32 -0400">
                             <Title>Captain Remarkable smiled to himself as he...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -180,23 +174,22 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>2748,2748</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="39" Created="2013-07-07 06:05:12 +0000" Modified="2013-07-09 15:26:33 +0000" Type="Folder">
+                <BinderItem ID="39" Type="Folder" Created="2013-07-07 02:05:12 -0400" Modified="2013-07-09 11:26:33 -0400">
                     <Title>Episode 6</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="40" Created="2013-07-07 06:05:17 +0000" Modified="2013-07-09 15:17:55 +0000" Type="Text">
+                        <BinderItem ID="40" Type="Text" Created="2013-07-07 02:05:17 -0400" Modified="2013-07-09 11:17:55 -0400">
                             <Title>Professor Reynolds had stood outside his cabin...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -205,23 +198,22 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>12545,12545</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="41" Created="2013-07-07 06:07:53 +0000" Modified="2013-07-09 15:26:34 +0000" Type="Folder">
+                <BinderItem ID="41" Type="Folder" Created="2013-07-07 02:07:53 -0400" Modified="2013-07-09 11:26:34 -0400">
                     <Title>Episode 7</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="42" Created="2013-07-07 06:07:57 +0000" Modified="2013-07-09 14:54:12 +0000" Type="Text">
+                        <BinderItem ID="42" Type="Text" Created="2013-07-07 02:07:57 -0400" Modified="2013-07-09 10:54:12 -0400">
                             <Title>The Captain rotated his chair as Faulkner walked...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -229,23 +221,22 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>9451,9451</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="43" Created="2013-07-09 13:57:26 +0000" Modified="2013-07-09 15:26:35 +0000" Type="Folder">
+                <BinderItem ID="43" Type="Folder" Created="2013-07-09 09:57:26 -0400" Modified="2013-07-09 11:26:35 -0400">
                     <Title>Episode 8</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="44" Created="2013-07-09 13:57:33 +0000" Modified="2013-07-09 14:54:07 +0000" Type="Text">
+                        <BinderItem ID="44" Type="Text" Created="2013-07-09 09:57:33 -0400" Modified="2013-07-09 10:54:07 -0400">
                             <Title>Quinten didn't so much clean the bar top as he...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -254,23 +245,22 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>10629,10629</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="45" Created="2013-07-09 13:58:24 +0000" Modified="2013-07-09 15:26:38 +0000" Type="Folder">
+                <BinderItem ID="45" Type="Folder" Created="2013-07-09 09:58:24 -0400" Modified="2013-07-09 11:26:38 -0400">
                     <Title>Episode 9</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="46" Created="2013-07-09 13:58:44 +0000" Modified="2013-07-09 14:55:03 +0000" Type="Text">
+                        <BinderItem ID="46" Type="Text" Created="2013-07-09 09:58:44 -0400" Modified="2013-07-09 10:55:03 -0400">
                             <Title>There is a singularly unique aspect to Nebulous...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -279,23 +269,22 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>8427,8427</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="47" Created="2013-07-09 13:59:06 +0000" Modified="2013-07-09 15:26:39 +0000" Type="Folder">
+                <BinderItem ID="47" Type="Folder" Created="2013-07-09 09:59:06 -0400" Modified="2013-07-09 11:26:39 -0400">
                     <Title>Episode 10</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="48" Created="2013-07-09 13:59:13 +0000" Modified="2013-07-09 14:55:10 +0000" Type="Text">
+                        <BinderItem ID="48" Type="Text" Created="2013-07-09 09:59:13 -0400" Modified="2013-07-09 10:55:10 -0400">
                             <Title>Darkness consumed the Corsair. Phineas flipped a...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -304,24 +293,23 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>7014,7014</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="50" Created="2013-07-09 13:59:45 +0000" Modified="2013-07-09 15:26:39 +0000" Type="Folder">
+                <BinderItem ID="50" Type="Folder" Created="2013-07-09 09:59:45 -0400" Modified="2013-07-09 11:26:39 -0400">
                     <Title>Episode 11</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="51" Created="2013-07-09 14:00:03 +0000" Modified="2013-07-09 14:55:21 +0000" Type="Text">
-                            <Title>&quot;I have good news and bad news,&quot; Harley shouted...</Title>
+                        <BinderItem ID="51" Type="Text" Created="2013-07-09 10:00:03 -0400" Modified="2013-07-09 10:55:21 -0400">
+                            <Title>"I have good news and bad news," Harley shouted...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
@@ -329,24 +317,23 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>11356,11356</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="52" Created="2013-07-09 14:00:21 +0000" Modified="2013-07-09 15:26:40 +0000" Type="Folder">
+                <BinderItem ID="52" Type="Folder" Created="2013-07-09 10:00:21 -0400" Modified="2013-07-09 11:26:40 -0400">
                     <Title>Episode 12</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="53" Created="2013-07-09 14:00:43 +0000" Modified="2013-07-09 14:55:54 +0000" Type="Text">
-                            <Title>&quot;Professor! What brings you out here?&quot; Faulkner...</Title>
+                        <BinderItem ID="53" Type="Text" Created="2013-07-09 10:00:43 -0400" Modified="2013-07-09 10:55:54 -0400">
+                            <Title>"Professor! What brings you out here?" Faulkner...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
@@ -354,47 +341,45 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>8543,8543</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="55" Created="2013-07-09 14:56:09 +0000" Modified="2013-07-09 15:26:42 +0000" Type="Folder">
+                <BinderItem ID="55" Type="Folder" Created="2013-07-09 10:56:09 -0400" Modified="2013-07-09 11:26:42 -0400">
                     <Title>Episode 13</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="56" Created="2013-07-09 14:56:23 +0000" Modified="2013-07-09 14:56:23 +0000" Type="Text">
-                            <Title>&quot;Honestly, if the negotiations are over soon I...</Title>
+                        <BinderItem ID="56" Type="Text" Created="2013-07-09 10:56:23 -0400" Modified="2013-07-09 10:56:23 -0400">
+                            <Title>"Honestly, if the negotiations are over soon I...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>10976,10976</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="57" Created="2013-07-09 14:56:34 +0000" Modified="2013-07-09 15:26:44 +0000" Type="Folder">
+                <BinderItem ID="57" Type="Folder" Created="2013-07-09 10:56:34 -0400" Modified="2013-07-09 11:26:44 -0400">
                     <Title>Episode 14</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="62" Created="2013-07-09 14:56:44 +0000" Modified="2013-07-09 14:56:44 +0000" Type="Text">
+                        <BinderItem ID="62" Type="Text" Created="2013-07-09 10:56:44 -0400" Modified="2013-07-09 10:56:44 -0400">
                             <Title>The remaining crew of the Anshar made their,...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -402,166 +387,160 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>10658,10658</TextSelection>
-                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="58" Created="2013-07-09 14:56:35 +0000" Modified="2013-07-09 15:26:45 +0000" Type="Folder">
+                <BinderItem ID="58" Type="Folder" Created="2013-07-09 10:56:35 -0400" Modified="2013-07-09 11:26:45 -0400">
                     <Title>Episode 15</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="75" Created="2013-07-09 14:58:50 +0000" Modified="2013-07-09 14:58:59 +0000" Type="Text">
+                        <BinderItem ID="75" Type="Text" Created="2013-07-09 10:58:50 -0400" Modified="2014-05-31 18:10:00 -0400">
                             <Title>Harleys paws hurt. They hurt and he was hungry....</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>9994,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="59" Created="2013-07-09 14:56:36 +0000" Modified="2013-07-09 15:26:46 +0000" Type="Folder">
+                <BinderItem ID="59" Type="Folder" Created="2013-07-09 10:56:36 -0400" Modified="2013-07-09 11:26:46 -0400">
                     <Title>Episode 16</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="76" Created="2013-07-09 14:59:15 +0000" Modified="2013-07-09 14:59:15 +0000" Type="Text">
-                            <Title>&quot;You must be Mel,&quot; said Emerson as he entered the...</Title>
+                        <BinderItem ID="76" Type="Text" Created="2013-07-09 10:59:15 -0400" Modified="2014-05-31 18:19:07 -0400">
+                            <Title>"You must be Mel," said Emerson as he entered the...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>354,354</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>1375,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="60" Created="2013-07-09 14:56:36 +0000" Modified="2013-07-09 15:26:47 +0000" Type="Folder">
+                <BinderItem ID="60" Type="Folder" Created="2013-07-09 10:56:36 -0400" Modified="2013-07-09 11:26:47 -0400">
                     <Title>Episode 17</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="77" Created="2013-07-09 15:00:05 +0000" Modified="2013-07-09 15:00:05 +0000" Type="Text">
+                        <BinderItem ID="77" Type="Text" Created="2013-07-09 11:00:05 -0400" Modified="2014-05-31 18:25:29 -0400">
                             <Title>Henry stood admiring himself in the mirror. The...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7128,7128</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>214,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="61" Created="2013-07-09 14:56:36 +0000" Modified="2013-07-09 15:26:52 +0000" Type="Folder">
+                <BinderItem ID="61" Type="Folder" Created="2013-07-09 10:56:36 -0400" Modified="2013-07-09 11:26:52 -0400">
                     <Title>Episode 18</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="78" Created="2013-07-09 15:00:43 +0000" Modified="2013-07-09 15:00:43 +0000" Type="Text">
+                        <BinderItem ID="78" Type="Text" Created="2013-07-09 11:00:43 -0400" Modified="2014-05-31 18:40:11 -0400">
                             <Title>Harley sat on his haunches with his back pressed...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8505,8505</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>7456,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="63" Created="2013-07-09 14:57:24 +0000" Modified="2013-07-09 15:26:53 +0000" Type="Folder">
+                <BinderItem ID="63" Type="Folder" Created="2013-07-09 10:57:24 -0400" Modified="2013-07-09 11:26:53 -0400">
                     <Title>Episode 19</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="79" Created="2013-07-09 15:00:57 +0000" Modified="2013-07-09 15:00:57 +0000" Type="Text">
+                        <BinderItem ID="79" Type="Text" Created="2013-07-09 11:00:57 -0400" Modified="2014-05-31 19:01:35 -0400">
                             <Title>Mel hung up the phone and turned. She wove around...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10780,10780</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>352,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="64" Created="2013-07-09 14:57:28 +0000" Modified="2013-07-09 15:26:54 +0000" Type="Folder">
+                <BinderItem ID="64" Type="Folder" Created="2013-07-09 10:57:28 -0400" Modified="2013-07-09 11:26:54 -0400">
                     <Title>Episode 20</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="80" Created="2013-07-09 15:01:20 +0000" Modified="2013-08-03 05:04:54 +0000" Type="Text">
+                        <BinderItem ID="80" Type="Text" Created="2013-07-09 11:01:20 -0400" Modified="2014-05-31 19:17:52 -0400">
                             <Title>Captain Remarkable leaned out and peered around...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5209,5209</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>7367,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="65" Created="2013-07-09 14:57:31 +0000" Modified="2013-07-09 15:27:19 +0000" Type="Folder">
+                <BinderItem ID="65" Type="Folder" Created="2013-07-09 10:57:31 -0400" Modified="2013-07-09 11:27:19 -0400">
                     <Title>Episode 21</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="82" Created="2013-07-09 15:02:44 +0000" Modified="2013-08-03 04:58:05 +0000" Type="Text">
+                        <BinderItem ID="82" Type="Text" Created="2013-07-09 11:02:44 -0400" Modified="2013-08-03 00:58:05 -0400">
                             <Title>Three things have always been considered...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -569,155 +548,161 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11697,11697</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="66" Created="2013-07-09 14:57:36 +0000" Modified="2013-07-09 15:27:18 +0000" Type="Folder">
+                <BinderItem ID="66" Type="Folder" Created="2013-07-09 10:57:36 -0400" Modified="2013-07-09 11:27:18 -0400">
                     <Title>Episode 22</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="83" Created="2013-07-09 15:03:00 +0000" Modified="2013-08-03 05:06:08 +0000" Type="Text">
-                            <Title>&quot;That was a wonderful story, Sir, but I don't see...</Title>
+                        <BinderItem ID="83" Type="Text" Created="2013-07-09 11:03:00 -0400" Modified="2013-08-03 01:06:08 -0400">
+                            <Title>"That was a wonderful story, Sir, but I don't see...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7535,7535</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>11076,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="67" Created="2013-07-09 14:57:45 +0000" Modified="2013-07-09 15:27:18 +0000" Type="Folder">
+                <BinderItem ID="67" Type="Folder" Created="2013-07-09 10:57:45 -0400" Modified="2013-07-09 11:27:18 -0400">
                     <Title>Episode 23</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="84" Created="2013-07-09 15:03:45 +0000" Modified="2013-07-09 15:03:52 +0000" Type="Text">
-                            <Title>&quot;Harley, Phineas, and the Professor made their...</Title>
+                        <BinderItem ID="84" Type="Text" Created="2013-07-09 11:03:45 -0400" Modified="2014-05-31 19:30:09 -0400">
+                            <Title>"Harley, Phineas, and the Professor made their...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,1</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>11608,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="68" Created="2013-07-09 14:57:49 +0000" Modified="2013-07-09 15:27:17 +0000" Type="Folder">
+            </Children>
+        </BinderItem>
+        <BinderItem ID="92" Type="Folder" Created="2014-05-31 18:10:28 -0400" Modified="2014-05-31 18:10:56 -0400">
+            <Title>Book 2</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="68" Type="Folder" Created="2013-07-09 10:57:49 -0400" Modified="2013-07-09 11:27:17 -0400">
                     <Title>Episode 24</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="85" Created="2013-07-09 15:04:22 +0000" Modified="2013-07-09 15:08:26 +0000" Type="Text">
-                            <Title>&quot;You do realized Harley's is going to throw a fit...</Title>
+                        <BinderItem ID="85" Type="Text" Created="2013-07-09 11:04:22 -0400" Modified="2014-05-31 19:39:56 -0400">
+                            <Title>"You do realized Harley's is going to throw a fit...</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7925,7925</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>3100,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="69" Created="2013-07-09 14:57:52 +0000" Modified="2013-07-09 15:27:16 +0000" Type="Folder">
+                <BinderItem ID="69" Type="Folder" Created="2013-07-09 10:57:52 -0400" Modified="2013-07-09 11:27:16 -0400">
                     <Title>Episode 25</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
                         <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="87" Created="2013-07-09 15:08:54 +0000" Modified="2013-07-09 15:08:54 +0000" Type="Text">
+                        <BinderItem ID="87" Type="Text" Created="2013-07-09 11:08:54 -0400" Modified="2014-05-31 19:37:15 -0400">
                             <Title>Phineas stalked through the hall grumbling.</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9869,9869</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>5916,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="70" Created="2013-07-09 14:57:55 +0000" Modified="2013-07-09 14:57:59 +0000" Type="Folder">
+                <BinderItem ID="70" Type="Folder" Created="2013-07-09 10:57:55 -0400" Modified="2013-07-09 10:57:59 -0400">
                     <Title>Episode 26</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="88" Created="2013-07-09 16:00:02 +0000" Modified="2013-08-21 18:02:54 +0000" Type="Text">
-                            <Title>&quot;Phin, I'm worried about something.&quot;</Title>
+                        <BinderItem ID="88" Type="Text" Created="2013-07-09 12:00:02 -0400" Modified="2013-08-21 14:02:54 -0400">
+                            <Title>"Phin, I'm worried about something."</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7916,7916</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="91" Created="2013-07-18 22:00:25 +0000" Modified="2013-07-18 22:00:30 +0000" Type="Folder">
+                <BinderItem ID="91" Type="Folder" Created="2013-07-18 18:00:25 -0400" Modified="2013-07-18 18:00:30 -0400">
                     <Title>Under Edit</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="71" Created="2013-07-09 14:57:59 +0000" Modified="2013-07-09 14:58:02 +0000" Type="Folder">
+                        <BinderItem ID="71" Type="Folder" Created="2013-07-09 10:57:59 -0400" Modified="2013-07-09 10:58:02 -0400">
                             <Title>Episode 27</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="89" Created="2013-07-18 13:53:19 +0000" Modified="2013-07-18 13:53:53 +0000" Type="Text">
+                                <BinderItem ID="89" Type="Text" Created="2013-07-18 09:53:19 -0400" Modified="2013-07-18 09:53:53 -0400">
                                     <Title>Phineas held his hand to to hs face in an attempt...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -725,22 +710,21 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>5091,5091</TextSelection>
-                                        <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="72" Created="2013-07-09 14:58:04 +0000" Modified="2013-07-09 14:58:06 +0000" Type="Folder">
+                        <BinderItem ID="72" Type="Folder" Created="2013-07-09 10:58:04 -0400" Modified="2013-07-09 10:58:06 -0400">
                             <Title>Episode 28</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="25" Created="2013-07-18 13:52:49 +0000" Modified="2013-07-18 13:52:49 +0000" Type="Text">
+                                <BinderItem ID="25" Type="Text" Created="2013-07-18 09:52:49 -0400" Modified="2013-07-18 09:52:49 -0400">
                                     <Title>Phineas sat in the chair, crossed his legs and...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -748,22 +732,21 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1343,1343</TextSelection>
-                                        <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="73" Created="2013-07-09 14:58:08 +0000" Modified="2013-07-09 14:58:11 +0000" Type="Folder">
+                        <BinderItem ID="73" Type="Folder" Created="2013-07-09 10:58:08 -0400" Modified="2013-07-09 10:58:11 -0400">
                             <Title>Episode 29</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="90" Created="2013-07-18 13:54:09 +0000" Modified="2014-03-17 17:35:31 +0000" Type="Text">
+                                <BinderItem ID="90" Type="Text" Created="2013-07-18 09:54:09 -0400" Modified="2014-03-17 13:35:31 -0400">
                                     <Title>Phineas rested his elbows on the table. To his...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -771,7 +754,6 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>2822,2822</TextSelection>
-                                        <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -780,69 +762,67 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="74" Created="2013-07-09 14:58:12 +0000" Modified="2013-07-09 14:58:14 +0000" Type="Folder">
+        <BinderItem ID="74" Type="Folder" Created="2013-07-09 10:58:12 -0400" Modified="2013-07-09 10:58:14 -0400">
             <Title>Episode 30</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <Target Type="Words">0</Target>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem ID="17" Created="2010-10-19 12:06:35 +0000" Modified="2010-10-19 12:06:51 +0000" Type="Folder">
+        <BinderItem ID="17" Type="Folder" Created="2010-10-19 08:06:35 -0400" Modified="2010-10-19 08:06:51 -0400">
             <Title>Characters</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
-                <IconFileName>Characters (Photo).png</IconFileName>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
             </MetaData>
             <TextSettings>
-                <Target Type="Words">0</Target>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem ID="18" Created="2010-10-19 12:06:37 +0000" Modified="2010-10-19 12:06:56 +0000" Type="Folder">
+        <BinderItem ID="18" Type="Folder" Created="2010-10-19 08:06:37 -0400" Modified="2010-10-19 08:06:56 -0400">
             <Title>Places</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
-                <IconFileName>Locations.tif</IconFileName>
+                <IconFileName>Locations (Map).tiff</IconFileName>
             </MetaData>
             <TextSettings>
-                <Target Type="Words">0</Target>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem ID="15" Created="2013-06-21 02:26:49 +0000" Modified="2013-06-21 02:26:52 +0000" Type="Folder">
+        <BinderItem ID="15" Type="Folder" Created="2013-06-20 22:26:49 -0400" Modified="2013-06-20 22:26:52 -0400">
             <Title>Extras</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <Target Type="Words">0</Target>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="16" Created="2013-06-21 02:26:58 +0000" Modified="2013-06-21 02:26:58 +0000" Type="Text">
+                <BinderItem ID="16" Type="Text" Created="2013-06-20 22:26:58 -0400" Modified="2013-06-20 22:26:58 -0400">
                     <Title>On other thing you're snagging on a fair bit...</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1563,1563</TextSelection>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>297,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Created="2006-11-04 16:27:29 +0000" Modified="2006-11-04 16:27:29 +0000" Type="ResearchFolder">
+        <BinderItem ID="1" Type="ResearchFolder" Created="2006-11-04 11:27:29 -0500" Modified="2006-11-04 11:27:29 -0500">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="11" Created="2013-06-21 02:18:20 +0000" Modified="2013-06-21 02:31:20 +0000" Type="Text">
+                <BinderItem ID="11" Type="Text" Created="2013-06-20 22:18:20 -0400" Modified="2013-06-20 22:31:20 -0400">
                     <Title>Synopsis</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -850,32 +830,29 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>364,364</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="14" Created="2013-06-21 02:26:23 +0000" Modified="2013-06-21 02:26:25 +0000" Type="Text">
+                <BinderItem ID="14" Type="Text" Created="2013-06-20 22:26:23 -0400" Modified="2013-06-20 22:26:25 -0400">
                     <Title>Bible</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2849,2849</TextSelection>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>3722,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="19" Created="2013-06-21 02:27:22 +0000" Modified="2013-06-21 02:29:09 +0000" Type="Text">
+                <BinderItem ID="19" Type="Text" Created="2013-06-20 22:27:22 -0400" Modified="2013-06-20 22:29:09 -0400">
                     <Title>4/17 Note Dump</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1662,1662</TextSelection>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="20" Created="2013-05-04 15:01:23 +0000" Modified="2013-06-21 02:28:33 +0000" Type="Image">
+                <BinderItem ID="20" Type="Image" Created="2013-05-04 11:01:23 -0400" Modified="2013-06-20 22:28:33 -0400">
                     <Title>Article</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -887,7 +864,7 @@
                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem ID="21" Created="2013-06-21 02:29:24 +0000" Modified="2013-06-21 02:29:36 +0000" Type="Text">
+                <BinderItem ID="21" Type="Text" Created="2013-06-20 22:29:24 -0400" Modified="2013-06-20 22:29:36 -0400">
                     <Title>12/10 Note Dump</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -895,10 +872,9 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>6937,6937</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" Created="2013-06-21 02:29:48 +0000" Modified="2013-06-21 02:29:58 +0000" Type="Text">
+                <BinderItem ID="22" Type="Text" Created="2013-06-20 22:29:48 -0400" Modified="2013-06-20 22:29:58 -0400">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -906,10 +882,9 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,3398</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="23" Created="2013-06-21 02:30:20 +0000" Modified="2013-06-21 02:30:22 +0000" Type="Text">
+                <BinderItem ID="23" Type="Text" Created="2013-06-20 22:30:20 -0400" Modified="2013-06-20 22:30:22 -0400">
                     <Title>Notes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -917,10 +892,9 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>951,951</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="24" Created="2013-06-21 02:30:36 +0000" Modified="2013-06-21 02:30:42 +0000" Type="Text">
+                <BinderItem ID="24" Type="Text" Created="2013-06-20 22:30:36 -0400" Modified="2013-06-20 22:30:42 -0400">
                     <Title>Super Paws</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -928,12 +902,11 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>118,118</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="10" Created="2011-10-27 07:27:12 +0000" Modified="2011-10-27 07:41:41 +0000" Type="PDF">
+        <BinderItem ID="10" Type="PDF" Created="2011-10-27 03:27:12 -0400" Modified="2011-10-27 03:41:41 -0400">
             <Title>Sample MS</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -944,17 +917,17 @@
                 <CurrentPDFPage>1</CurrentPDFPage>
             </MediaSettings>
         </BinderItem>
-        <BinderItem ID="7" Created="2011-09-28 07:04:16 +0000" Modified="2011-09-28 07:04:16 +0000" Type="Folder">
+        <BinderItem ID="7" Type="Folder" Created="2011-09-28 03:04:16 -0400" Modified="2011-09-28 03:04:16 -0400">
             <Title>Template Sheets</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
-                <Target Type="Words">0</Target>
+                <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="9" Created="2011-09-28 07:04:16 +0000" Modified="2011-10-18 07:57:41 +0000" Type="Text">
+                <BinderItem ID="9" Type="Text" Created="2011-09-28 03:04:16 -0400" Modified="2011-10-18 03:57:41 -0400">
                     <Title>Character Sketch</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -962,33 +935,32 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
-                        <IconFileName>Character Sheet (Photo).png</IconFileName>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" Created="2011-09-28 07:04:16 +0000" Modified="2011-10-18 07:58:00 +0000" Type="Text">
+                <BinderItem ID="8" Type="Text" Created="2011-09-28 03:04:16 -0400" Modified="2011-10-18 03:58:00 -0400">
                     <Title>Setting Sketch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
-                        <IconFileName>Location Sheet.png</IconFileName>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="2" Created="2006-11-04 16:27:29 +0000" Modified="2006-11-04 16:27:29 +0000" Type="TrashFolder">
+        <BinderItem ID="2" Type="TrashFolder" Created="2006-11-04 11:27:29 -0500" Modified="2006-11-04 11:27:29 -0500">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="6" Created="2006-11-04 16:33:03 +0000" Modified="2013-07-07 05:50:55 +0000" Type="Text">
+                <BinderItem ID="6" Type="Text" Created="2006-11-04 11:33:03 -0500" Modified="2013-07-07 01:50:55 -0400">
                     <Title>Intro</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -998,10 +970,9 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>924,924</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="12" Created="2013-06-21 02:21:08 +0000" Modified="2013-06-21 02:23:31 +0000" Type="Text">
+                <BinderItem ID="12" Type="Text" Created="2013-06-20 22:21:08 -0400" Modified="2013-06-20 22:23:31 -0400">
                     <Title>Mayor</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -1011,60 +982,59 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>4649,4649</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="32" Created="2013-07-07 06:00:33 +0000" Modified="2013-07-07 06:00:33 +0000" Type="Text">
+                <BinderItem ID="32" Type="Text" Created="2013-07-07 02:00:33 -0400" Modified="2013-07-07 02:00:33 -0400">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="31" Created="2013-07-07 06:00:29 +0000" Modified="2013-07-07 06:00:29 +0000" Type="Text">
+                <BinderItem ID="31" Type="Text" Created="2013-07-07 02:00:29 -0400" Modified="2013-07-07 02:00:29 -0400">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="49" Created="2013-07-09 13:59:31 +0000" Modified="2013-07-09 13:59:31 +0000" Type="Folder">
+                <BinderItem ID="49" Type="Folder" Created="2013-07-09 09:59:31 -0400" Modified="2013-07-09 09:59:31 -0400">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="54" Created="2013-07-09 14:55:58 +0000" Modified="2013-07-09 14:55:58 +0000" Type="Text">
+                <BinderItem ID="54" Type="Text" Created="2013-07-09 10:55:58 -0400" Modified="2013-07-09 10:55:58 -0400">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="86" Created="2013-07-09 15:08:41 +0000" Modified="2013-07-09 15:08:48 +0000" Type="Text">
+                <BinderItem ID="86" Type="Text" Created="2013-07-09 11:08:41 -0400" Modified="2013-07-09 11:08:48 -0400">
                     <Title></Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <Target Type="Words">0</Target>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="34" Created="2013-07-07 06:01:07 +0000" Modified="2013-07-07 06:07:03 +0000" Type="Text">
+                <BinderItem ID="34" Type="Text" Created="2013-07-07 02:01:07 -0400" Modified="2013-07-07 02:07:03 -0400">
                     <Title>The cargo bay doors slid open, disappearing into...</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1073,19 +1043,18 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>5927,5927</TextSelection>
-                        <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.784753 0.815752 0.848702">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">[.</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">[.</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
@@ -1096,8 +1065,8 @@
             <Label ID="1" Color="0.952941 0.917647 0.329412">Idea</Label>
             <Label ID="5" Color="0.894118 0.529412 0.219608">Notes</Label>
             <Label ID="6" Color="0.913725 0.098039 0.184314">Character Notes</Label>
-            <Label ID="2" Color="0.282353 0.701961 0.000000">Chapter</Label>
-            <Label ID="4" Color="0.274510 0.556863 1.000000">Scene</Label>
+            <Label ID="2" Color="0.282353 0.701961 0.0">Chapter</Label>
+            <Label ID="4" Color="0.27451 0.556863 1.0">Scene</Label>
         </Labels>
     </LabelSettings>
     <StatusSettings>
@@ -1113,10 +1082,10 @@
             <Status ID="5">Done</Status>
         </StatusItems>
     </StatusSettings>
-    <ProjectProperties/>
-    <ProjectTargets>
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes">60000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">0</SessionTarget>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2014-05-31 17:07:58 -0400" IgnoreDeadline="Yes">60000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="73" Characters="399" Date="2014-05-31 17:07:57 -0400"></PreviousSession>
     </ProjectTargets>
-    <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.000099" RightMargin="72.000099" TopMargin="90.000198" BottomMargin="90.000198" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
