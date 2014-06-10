@@ -1099,14 +1099,30 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="90" Created="2013-07-18 05:54:09 +0000" Modified="2014-03-17 09:35:31 +0000" Type="Text">
+                                <BinderItem ID="90" Created="2013-07-18 05:54:09 +0000" Modified="2014-06-10 03:37:39 +0000" Type="Text">
                                     <Title>Phineas rested his elbows on the table. To his...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2972,2972</TextSelection>
+                                        <TextSelection>7780,7780</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="93" Created="2014-06-10 03:44:35 +0000" Modified="2014-06-10 03:46:40 +0000" Type="Text">
+                                    <Title>&quot;So everyone is clear yes,&quot; asked Faulkner for...</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>192,192</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
