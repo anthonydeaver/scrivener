@@ -1099,14 +1099,14 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="90" Created="2013-07-18 05:54:09 +0000" Modified="2014-06-10 03:37:39 +0000" Type="Text">
+                                <BinderItem ID="90" Created="2013-07-18 05:54:09 +0000" Modified="2014-06-11 03:44:00 +0000" Type="Text">
                                     <Title>Phineas rested his elbows on the table. To his...</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7780,7780</TextSelection>
+                                        <TextSelection>304,304</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
